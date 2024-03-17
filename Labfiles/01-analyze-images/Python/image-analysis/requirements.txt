@@ -1,0 +1,4 @@
+azure-ai-vision-imageanalysis
+python-dotenv
+Pillow
+matplotlib
